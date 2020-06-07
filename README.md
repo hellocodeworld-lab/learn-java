@@ -1,2 +1,2 @@
 # learn-java
-how2ajava learning 
+how2java learning 
